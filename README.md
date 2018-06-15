@@ -8,4 +8,4 @@ To download MAGIC, visit the MAGIC release page: [https://github.com/nigelrogasc
 Further information on using MAGIC can be found on the Wiki: [https://github.com/nigelrogasch/MAGIC/wiki](https://github.com/nigelrogasch/MAGIC/wiki)
 
 ## CITE MAGIC
-If you find this toolbox useful, please also cite our paper at https://doi.org/10.1016/j.brs.2018.05.015. 
+If you find this toolbox useful, please also consider citing our paper at https://doi.org/10.1016/j.brs.2018.05.015. 
